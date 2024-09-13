@@ -1,6 +1,12 @@
-# MineHub
 
-我的世界服务器管理平台
+
+<h1 align="center">
+  MineHub
+</h1>
+
+<p align="center">
+  我的世界服务器管理平台
+</p>
 
 ## 目标功能
 
